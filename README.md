@@ -1,4 +1,4 @@
-# Video Converter FM for Nextcloud
+# Nextcloud - FM Video transcoder for adaptive streaming DASH/HLS
 
 **Languages:** [English](README_ENG.md) | [Français](README_FR.md)
 
